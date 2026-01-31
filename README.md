@@ -4,7 +4,7 @@ Soy analista de datos, con experiencia en entornos ETL y en visualización de da
 
 - [Linkedin](https://www.linkedin.com/in/juan-lopezs/)
 - [/home](https://julopsalar.github.io/)
-- [mail](ju.lopsalar@gmail.com)
+- [mail](mailto:ju.lopsalar@gmail.com)
 
 
 
