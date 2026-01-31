@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @julopsalar. I'm graduated at Computer Science by the University of Murcia.
-- 👀 I’m interested in Technology and Data Analytics
-<!-- 🌱 I’m currently learning ... --->
-- 💞️ I’m looking to collaborate on Big Data projects
-- 📫 How to reach me: ju.lopsalar@gmail.com
+Hola! Soy Juan López Salar, graduado en Ingeniería Informática por la universidad. Mis grandes pasiones son los datos y la música.
+
+Soy analista de datos, con experiencia en entornos ETL y en visualización de datos. Puedes encontrarme en mis redes:
+
+- [Linkedin](https://www.linkedin.com/in/juan-lopezs/)
+- [/home](https://julopsalar.github.io/)
+- [mail](ju.lopsalar@gmail.com)
+
+
 
 <!---
 julopsalar/julopsalar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
